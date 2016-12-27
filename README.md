@@ -28,7 +28,7 @@ ssdp.on('DeviceAvailable:urn:av-openhome-org:service:Playlist:1', console.log);
 
 ## References:
 Openhome:
-http://www.openhome.org/wiki/Oh:Overview
+http://www.openhomelabs.com/pages/develop/overview.html
 
 Upnp Specs:
 http://upnp.org/specs/arch/UPnP-arch-DeviceArchitecture-v1.1.pdf
